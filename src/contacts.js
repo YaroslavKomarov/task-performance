@@ -11,7 +11,7 @@ function addContacts() {
   }
   contacts.appendChild(fragment);
 }
-
+ 
 contacts.addEventListener("scroll", (e) => {
   const items = Array.from(contacts.getElementsByClassName("contact"));
   const itemOffsets = items.map((item) => item.offsetTop);

@@ -1,0 +1,3 @@
+Add `will-change: transform` into `.stickyHeader`
+Converted styles via CSSO
+Load the script `stats.js` asynchronously
